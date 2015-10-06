@@ -1,1 +1,1 @@
-This portfolio contains my Java programms.
+This portfolio contains my Java programs.
